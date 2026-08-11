@@ -1,4 +1,4 @@
-# BlogSpace
+# Scriptoria
 
 A full-stack blog platform built with Next.js, Prisma, and TailwindCSS.
 
